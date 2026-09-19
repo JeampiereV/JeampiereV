@@ -40,7 +40,7 @@ class WhoAmI:
 <p align="left">
 Tengo un gran nteres por la programacion y el desarrollo de software, con media experiencia en la construcción de proyectos personales. Siempre en busqueda de aprender nuevas tecnologías y mejorar continuamente en el proceso de desarrollo.
 
-Contacto: nullsecpe@gmail.com
+Contacto: xaberito2011@gmail.com / 906854805
 <!--Intro end-->
   </p>
 <br>
