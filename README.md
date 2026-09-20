@@ -40,7 +40,9 @@ class WhoAmI:
 <p align="left">
 Tengo un gran nteres por la programacion y el desarrollo de software, con media experiencia en la construcción de proyectos personales. Siempre en busqueda de aprender nuevas tecnologías y mejorar continuamente en el proceso de desarrollo.
 
-Contacto: xaberito2011@gmail.com / jeampierevallladolid@gmail.com / 906854805
+Contacto: xaberito2011@gmail.com (PRINCIPAL)
+          jeampierevallladolid@gmail.com / 906854805
+          nullsecpe@gmail.com
 Mi otro GitHub: https://github.com/JeampiereV
 <!--Intro end-->
   </p>
