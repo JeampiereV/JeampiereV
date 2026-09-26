@@ -19,12 +19,12 @@ class WhoAmI:
     ]
    
     def country():
-        return "Peru"         
+        return "Ferreñafe, Lambayeque, Perú"         
    
     def Ambitions():
         return [
             "be a good programmer",
-            "Finish My Projects"
+            "Get admitted to UNI"
         ]
 ```
   </a>
@@ -43,7 +43,6 @@ Tengo un gran nteres por la programacion y el desarrollo de software, con media 
 Contacto: xaberito2011@gmail.com (PRINCIPAL)
           jeampierevallladolid@gmail.com / 906854805
           nullsecpe@gmail.com
-Mi otro GitHub: https://github.com/JeampiereV
 <!--Intro end-->
   </p>
 <br>
